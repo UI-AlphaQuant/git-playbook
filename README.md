@@ -12,8 +12,8 @@
 ## 👉 Git Configuration Commands
 
 ```bash
-    git config --global user.name "Naimesh Barot"
-    git config --global user.email "naimesh.b@email.com"
+    git config --global user.name "name"
+    git config --global user.email "name@email.com"
 
     git config user.name
     git config user.email
